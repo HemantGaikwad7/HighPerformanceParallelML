@@ -1,1 +1,1 @@
-# HighPerformanceParallelML
+# CSYE7105 HIGH PARALLEL MACHINE LEARNING & AI 
